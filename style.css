@@ -1,0 +1,18 @@
+* {
+	margin: 0;
+	padding: 0;
+	background-color: #BDC3C7;
+}
+
+.quiz_ques {
+	margin: auto;
+	width: 80%;
+	background-color: #ECF0F1;
+	border-radius: 3px;
+	padding: 10px;
+	text-align: center;
+}
+
+label {
+	display: block;
+}
